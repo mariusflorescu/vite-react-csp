@@ -12,7 +12,7 @@
     "prepare": "npm run build"
   },
   "bin": {
-    "react-csp": "bin/index.js"
+    "vite-react-csp": "bin/index.js"
   },
   "author": "Marius Florescu",
   "license": "MIT",
