@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to react-csp 👋</h1>
+<h1 align="center">Welcome to vite-react-csp 👋. Fork of react-csp</h1>
 
 [![Package Quality](https://npm.packagequality.com/shield/react-csp.svg)](https://packagequality.com/#?package=react-csp)
 [![npm version](https://badge.fury.io/js/react-csp.svg)](https://www.npmjs.com/package/react-csp)
