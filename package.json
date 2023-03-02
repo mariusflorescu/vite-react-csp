@@ -1,7 +1,7 @@
 {
   "name": "react-csp",
   "version": "1.1.3",
-  "description": "A npm package/plugin that generate Content Security Policy for create-react-app without eject or rewired.",
+  "description": "A npm package/plugin that generate Content Security Policy for vite react app.",
   "main": "index.js",
   "types": "./lib/types.d.ts",
   "scripts": {
@@ -14,24 +14,24 @@
   "bin": {
     "react-csp": "bin/index.js"
   },
-  "author": "YIZHUANG",
+  "author": "Marius Florescu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YIZHUANG/react-csp"
+    "url": "https://github.com/mariusflorescu/vite-react-csp"
   },
   "keywords": [
     "Cli tool",
     "Nodejs",
     "React",
-    "create-react-app",
+    "vite1",
     "CSP",
     "Content Security Policy",
     "TypeScript"
   ],
-  "homepage": "https://github.com/YIZHUANG/react-csp",
+  "homepage": "https://github.com/mariusflorescu/vite-react-csp",
   "bugs": {
-    "url": "https://github.com/YIZHUANG/react-csp/issues"
+    "url": "https://github.com/mariusflorescu/vite-react-csp/issues"
   },
   "devDependencies": {
     "@types/jsdom": "^12.2.4",
