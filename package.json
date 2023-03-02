@@ -1,6 +1,6 @@
 {
   "name": "vite-react-csp",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "A npm package/plugin that generate Content Security Policy for vite react app. Fork of react-csp",
   "main": "index.js",
   "types": "./lib/types.d.ts",
